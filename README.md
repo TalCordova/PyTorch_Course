@@ -4,7 +4,7 @@ Deep Learning with PyTorch course by Zero to Mastery. The notebooks in this repo
 
 ## Subjects covered in the course
 
-* PyTorch fundamentals - in notebook 0.
+* PyTorch fundamentals - in [notebook 0](https://github.com/TalCordova/PyTorch_Course/blob/main/00_pytorch_fundamentals.ipynb).
 * PyTorch workflow in notebook 1.
 * Classification with PyTorch in notebook 2.
 * Computer vision with PyTorch in notebook 3.
